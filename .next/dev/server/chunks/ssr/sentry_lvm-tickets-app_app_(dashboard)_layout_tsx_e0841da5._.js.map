@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/code/sentry/lvm-tickets-app/app/%28dashboard%29/layout.tsx"],"sourcesContent":["export default function DashboardLayout({\n  children,\n}: {\n  children: React.ReactNode;\n}) {\n  return children;\n}\n"],"names":[],"mappings":";;;;AAAe,SAAS,gBAAgB,EACtC,QAAQ,EAGT;IACC,OAAO;AACT"}}]
+}
