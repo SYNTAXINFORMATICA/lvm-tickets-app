@@ -1,6 +1,13 @@
 {
+  "/(auth)/login/page": "app/(auth)/login/page.js",
   "/(dashboard)/dashboard/page": "app/(dashboard)/dashboard/page.js",
+  "/(dashboard)/dashboard/reports/page": "app/(dashboard)/dashboard/reports/page.js",
+  "/(dashboard)/dashboard/tickets/[id]/edit/page": "app/(dashboard)/dashboard/tickets/[id]/edit/page.js",
   "/(dashboard)/dashboard/tickets/[id]/page": "app/(dashboard)/dashboard/tickets/[id]/page.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/api/reports/tickets-by-app/route": "app/api/reports/tickets-by-app/route.js",
+  "/api/reports/tickets-by-area/route": "app/api/reports/tickets-by-area/route.js",
+  "/api/tickets/[id]/route": "app/api/tickets/[id]/route.js",
   "/api/tickets/route": "app/api/tickets/route.js",
   "/page": "app/page.js"
 }

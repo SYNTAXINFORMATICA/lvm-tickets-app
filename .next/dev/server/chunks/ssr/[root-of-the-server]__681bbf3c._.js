@@ -478,7 +478,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$sentry$2f$lvm$2d$tickets$2d$
 ;
 ;
 async function getTicket(id) {
-    const res = await fetch(`${("TURBOPACK compile-time value", "lvm-tickets-app-awbgchb3drgxdcfx.eastus-01.azurewebsites.net") || 'http://localhost:3000'}/api/tickets/${id}`, {
+    const res = await fetch(`${("TURBOPACK compile-time value", "https://lvm-tickets-app-awbgchb3drgxdcfx.eastus-01.azurewebsites.net/") || 'http://localhost:3000'}/api/tickets/${id}`, {
         cache: 'no-store'
     });
     if (!res.ok) return null;

@@ -1,20 +1,113 @@
-[00:00:39.815] Server  LOG      ✓ Ready in 28.9s
-[00:06:06.871] Server  LOG      ○ Compiling / ...
-[00:06:31.306] Server  LOG      ○ Compiling /dashboard ...
-[00:06:39.476] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:06:39.476] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/dashboard","route":"/dashboard"}
-[00:06:39.476] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763482526668}
-[00:06:42.815] Server  LOG      ○ Compiling /api/tickets ...
-[00:06:46.829] Server  LOG     [v0] Executed query {}
-[00:06:52.152] Server  LOG     [v0] Executed query {}
-[00:06:57.381] Server  LOG     [v0] Executed query {}
-[00:07:02.586] Server  LOG     [v0] Executed query {}
-[00:07:07.800] Server  LOG     [v0] Executed query {}
-[00:07:13.030] Server  LOG     [v0] Executed query {}
-[00:07:17.470] Server  ERROR   C:\code\sentry\lvm-tickets-app\.next\dev\server\chunks\ssr\8cf11_next_dist_28d6addd._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[00:07:17.476] Server  ERROR   C:\code\sentry\lvm-tickets-app\.next\dev\server\chunks\ssr\8cf11_next_dist_28d6addd._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[00:07:17.486] Server  ERROR    ⨯ TypeError: Failed to parse URL from lvm-tickets-app-awbgchb3drgxdcfx.eastus-01.azurewebsites.net/api/tickets/2
-[00:07:17.734] Browser ERROR   uncaughtError: TypeError: Failed to parse URL from lvm-tickets-app-awbgchb3drgxdcfx.eastus-01.azurewebsites.net/api/tickets/2
-[00:11:12.867] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:11:12.867] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/dashboard","route":"/dashboard"}
-[00:11:12.867] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763482800081}
+[00:00:44.808] Server  LOG      ✓ Ready in 29.5s
+[00:01:39.573] Server  LOG      ○ Compiling / ...
+[00:02:11.962] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:02:11.962] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/login","route":"/login"}
+[00:02:11.962] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/login color: rgb(120, 120, 120) color: inherit {"dp":"/login","o":"http://localhost:3000/login","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1764200892883}
+[00:02:23.609] Server  LOG     [v0] Executed query {}
+[00:02:27.562] Server  LOG      ○ Compiling /dashboard ...
+[00:02:43.225] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1764200923935}
+[00:02:46.188] Server  LOG      ○ Compiling /api/tickets ...
+[00:02:51.186] Server  LOG     [v0] Executed query {}
+[00:02:55.220] Server  LOG     [v0] Executed query {}
+[00:03:39.268] Server  LOG     [v0] Executed query {}
+[00:03:42.248] Server  LOG     [v0] Executed query {}
+[00:03:47.450] Server  LOG     [v0] Executed query {}
+[00:03:52.639] Server  LOG     [v0] Executed query {}
+[00:03:57.816] Server  LOG     [v0] Executed query {}
+[00:04:02.999] Server  LOG     [v0] Executed query {}
+[00:04:08.175] Server  LOG     [v0] Executed query {}
+[00:04:15.800] Server  LOG     [v0] Executed query {}
+[00:04:21.018] Server  LOG     [v0] Executed query {}
+[00:04:26.242] Server  LOG     [v0] Executed query {}
+[00:04:31.426] Server  LOG     [v0] Executed query {}
+[00:04:36.605] Server  LOG     [v0] Executed query {}
+[00:04:41.788] Server  LOG     [v0] Executed query {}
+[00:04:44.438] Server  LOG     [v0] AI Analysis completed: {}
+[00:04:44.750] Server  LOG     [v0] Executed query {}
+[00:04:44.905] Server  LOG     [v0] Executed query {}
+[00:04:45.053] Server  LOG     [v0] Executed query {}
+[00:04:45.542] Server  LOG     [v0] Executed query {}
+[00:04:52.019] Server  LOG     [v0] Executed query {}
+[00:05:32.540] Server  LOG     [v0] Executed query {}
+[00:05:39.010] Server  LOG     [v0] Executed query {}
+[00:05:44.575] Server  LOG     [v0] Executed query {}
+[00:05:47.806] Server  LOG     [v0] Executed query {}
+[00:05:53.293] Server  ERROR   C:\code\sentry\lvm-tickets-app\.next\dev\server\chunks\ssr\8cf11_next_dist_28d6addd._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:05:53.307] Server  ERROR   C:\code\sentry\lvm-tickets-app\.next\dev\server\chunks\ssr\8cf11_next_dist_28d6addd._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:05:53.323] Server  ERROR    ⨯ TypeError: Failed to parse URL from lvm-tickets-app-awbgchb3drgxdcfx.eastus-01.azurewebsites.net/api/tickets/4
+[00:05:53.568] Browser ERROR   uncaughtError: TypeError: Failed to parse URL from lvm-tickets-app-awbgchb3drgxdcfx.eastus-01.azurewebsites.net/api/tickets/4
+[00:12:16.361] Server  LOG        Reload env: .env
+[00:12:21.444] Server  LOG      ✓ Compiled in 2.5s
+[00:12:25.853] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:12:25.854] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/dashboard","route":"/dashboard"}
+[00:12:25.854] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1764201506679}
+[00:12:27.633] Server  LOG     [v0] Executed query {}
+[00:12:30.599] Server  LOG     [v0] Executed query {}
+[00:12:35.811] Server  LOG     [v0] Executed query {}
+[00:12:41.019] Server  LOG     [v0] Executed query {}
+[00:12:46.219] Server  LOG     [v0] Executed query {}
+[00:12:51.405] Server  LOG     [v0] Executed query {}
+[00:12:56.604] Server  LOG     [v0] Executed query {}
+[00:13:01.804] Server  LOG     [v0] Executed query {}
+[00:13:08.124] Server  LOG     [v0] Executed query {}
+[00:13:08.287] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:13:08.287] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/dashboard","route":"/dashboard"}
+[00:13:08.287] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1764201549108}
+[00:13:13.016] Server  LOG     [v0] Executed query {}
+[00:13:18.209] Server  LOG     [v0] Executed query {}
+[00:13:23.417] Server  LOG     [v0] Executed query {}
+[00:13:28.602] Server  LOG     [v0] Executed query {}
+[00:13:33.783] Server  LOG     [v0] Executed query {}
+[00:13:38.987] Server  LOG     [v0] Executed query {}
+[00:13:44.190] Server  LOG     [v0] Executed query {}
+[00:13:49.401] Server  LOG     [v0] Executed query {}
+[00:13:53.101] Server  LOG     [v0] Executed query {}
+[00:13:55.069] Server  LOG     [v0] Executed query {}
+[00:13:55.223] Server  LOG     [v0] Executed query {}
+[00:13:55.433] Server  LOG     [v0] Executed query {}
+[00:13:56.089] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard/tickets/4/edit color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard/tickets/[id]/edit","o":"http://localhost:3000/dashboard/tickets/4/edit","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1764201597010}
+[00:14:03.356] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1764201604202}
+[00:14:03.451] Server  LOG     [v0] Executed query {}
+[00:14:08.383] Server  LOG     [v0] Executed query {}
+[00:14:13.573] Server  LOG     [v0] Executed query {}
+[00:14:19.606] Server  LOG     [v0] Executed query {}
+[00:14:24.823] Server  LOG     [v0] Executed query {}
+[00:14:30.014] Server  LOG     [v0] Executed query {}
+[00:14:35.215] Server  LOG     [v0] Executed query {}
+[00:14:40.410] Server  LOG     [v0] Executed query {}
+[00:14:45.627] Server  LOG     [v0] Executed query {}
+[00:14:50.818] Server  LOG     [v0] Executed query {}
+[00:14:56.020] Server  LOG     [v0] Executed query {}
+[00:14:58.566] Server  LOG     [v0] AI Analysis completed: {}
+[00:14:58.787] Server  LOG     [v0] Executed query {}
+[00:14:58.935] Server  LOG     [v0] Executed query {}
+[00:14:59.098] Server  LOG     [v0] Executed query {}
+[00:14:59.836] Server  LOG     [v0] Executed query {}
+[00:15:06.229] Server  LOG     [v0] Executed query {}
+[00:15:11.428] Server  LOG     [v0] Executed query {}
+[00:15:16.622] Server  LOG     [v0] Executed query {}
+[00:19:25.141] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard/tickets/5 color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard/tickets/[id]","o":"http://localhost:3000/dashboard/tickets/5","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1764201776481}
+[00:20:54.959] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1764202015805}
+[00:20:56.365] Server  LOG     [v0] Executed query {}
+[00:21:00.587] Server  LOG     [v0] Executed query {}
+[00:21:02.937] Server  LOG     [v0] Executed query {}
+[00:21:03.058] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:21:03.058] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/dashboard","route":"/dashboard"}
+[00:21:03.058] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1764202023933}
+[00:21:08.227] Server  LOG     [v0] Executed query {}
+[00:21:13.483] Server  LOG     [v0] Executed query {}
+[00:21:18.726] Server  LOG     [v0] Executed query {}
+[00:21:23.919] Server  LOG     [v0] Executed query {}
+[00:21:29.149] Server  LOG     [v0] Executed query {}
+[00:21:34.360] Server  LOG     [v0] Executed query {}
+[00:21:39.586] Server  LOG     [v0] Executed query {}
+[00:21:44.796] Server  LOG     [v0] Executed query {}
+[00:21:48.998] Server  LOG      ○ Compiling /dashboard/reports ...
+[00:21:50.759] Server  LOG     [v0] Executed query {}
+[00:21:51.323] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard/reports color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard/reports","o":"http://localhost:3000/dashboard/reports","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1764202072221}
+[00:21:52.735] Server  LOG     [v0] Executed query {}
+[00:21:53.938] Server  LOG     [v0] Executed query {}
+[00:22:01.400] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1764202082218}
+[00:22:01.524] Server  LOG     [v0] Executed query {}
+[00:22:06.390] Server  LOG     [v0] Executed query {}
+[00:22:11.591] Server  LOG     [v0] Executed query {}
